@@ -1,0 +1,9 @@
+[gd_scene format=2]
+
+[node name="Label" type="Label"]
+margin_top = 2.0
+margin_right = 815.0
+margin_bottom = 382.0
+text = "69, nice"
+align = 1
+valign = 1
